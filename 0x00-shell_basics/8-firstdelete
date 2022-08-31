@@ -1,2 +1,2 @@
 #!/bin/bash
-rm /tmp/my_first_directory/betty: cannot open /tmp/my_first_directory/betty' (No such file or directory)
+rm /tmp/my_first_directory/betty
