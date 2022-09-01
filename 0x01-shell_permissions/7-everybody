@@ -1,3 +1,2 @@
 #!/bin/bash
 chmod 640 hello
-chmod 444 hello
